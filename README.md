@@ -1,2 +1,2 @@
-# Unsupervised-ML
-This is the second task from the internship I'm doing at the sparks foundation.
+# Internship-tasks
+These are the tasks that I've done from the internship I'm doing at the sparks foundation.
